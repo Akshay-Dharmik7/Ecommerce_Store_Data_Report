@@ -30,7 +30,7 @@ It combines Python for data processing and analysis with Power BI for creating d
    
 ### Installation
 **Clone the repository:**  
-git clone https://github.com/yourusername/credit-card-analysis.git  
+git clone https://github.com/kshay-Dharmik7/credit-card-analysis.git  
 
 **Navigate to the project directory:**  
 cd credit-card-analysis  
