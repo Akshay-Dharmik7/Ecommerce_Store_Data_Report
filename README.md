@@ -58,7 +58,7 @@ Download and open the .pbix file in Power BI Desktop.
 Refresh the data to load the latest information from the database.  
 
 ## 🎯 How to Use the Dashboard
-#### 📈 Sales Overview:
+### 📈 Sales Overview:
 Explore the overall sales performance and identify trends.  
 
 ### 👥 Customer Insights:
@@ -71,14 +71,16 @@ Review which products are performing well and which need attention.
 Use the filters to view specific time periods, regions, or product categories.
 
 ### 🔮 Future Enhancements:
-Integration with Machine Learning Models: To predict customer churn and recommend products.
-Automated Data Refresh: Setting up scheduled data refresh to ensure real-time analysis.
-Additional KPIs: Adding more key performance indicators based on stakeholder feedback.
+#### Integration with Machine Learning Models: 
+To predict customer churn and recommend products.  
+#### Automated Data Refresh:  
+Setting up scheduled data refresh to ensure real-time analysis.
+#### Additional KPIs:  
+Adding more key performance indicators based on stakeholder feedback.
 
 ## 👥 Contributors:
 #### Akshay Vijayrao Dharmik
 (Data Analyst & Developer)
-📜 License
 
 ## 📧 Contact
 For any inquiries, feel free to reach out at email@example.com.
