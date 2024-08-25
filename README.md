@@ -13,6 +13,13 @@ Data was cleaned, transformed, and loaded into Power BI. The preparation include
 ### 3) Power BI Dashboard:  
 A comprehensive Power BI dashboard was developed to visualize key metrics and trends. The dashboard includes interactive reports for sales analysis, customer segmentation, product performance, and more.  
 
+## 📂 Project Contents:
+**1) data/:** Contains raw and processed data files.  
+**2) dashboards/:** Power BI files for interactive dashboards.  
+**3) images/:** Screenshots and images of the analysis and dashboards.  
+**4) README.md:** Project documentation. 
+
+
 ## 🌟 Key Features:
 ### 📈 Sales Performance Analysis:
 - Total Sales
@@ -46,6 +53,14 @@ Used for data cleaning and transformation.
 Used for querying the Ecommerce database.   
 #### Excel:  
 Used for initial data exploration and validation.  
+
+
+## 🚀 Getting Started:
+### Prerequisites
+1) Python 3.x
+2) Power BI Desktop
+3) Required Python packages: pandas, numpy, matplotlib, seaborn
+
 
 ## 🚀 Installation & Setup:
 ### 1) 🔗 Clone the Repository:
