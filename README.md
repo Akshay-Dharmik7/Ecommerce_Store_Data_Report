@@ -14,7 +14,7 @@ Data was cleaned, transformed, and loaded into Power BI. The preparation include
 A comprehensive Power BI dashboard was developed to visualize key metrics and trends. The dashboard includes interactive reports for sales analysis, customer segmentation, product performance, and more.  
 
 ## 🌟 Key Features:
-### Sales Performance Analysis:
+### 📈 Sales Performance Analysis:
 - Total Sales
 - Sales Trends Over Time
 - Top-selling Products
