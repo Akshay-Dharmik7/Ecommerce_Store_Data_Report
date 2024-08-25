@@ -4,11 +4,12 @@
 - This project focuses on analyzing credit card transaction data to uncover patterns, segment customers, and assess credit risk. It combines Python for data processing and analysis with Power BI for creating dynamic and interactive dashboards.
 
 ## 🛠️ Features:
-- 1) Data Preprocessing: Cleaning, transforming, and exploring transaction data using Python.
-Customer Segmentation: Grouping customers based on spending behavior and other factors.
-Credit Risk Assessment: Identifying potential risks associated with credit card usage.
-Dynamic Dashboards: Visualizing key insights using interactive Power BI dashboards.
-📂 Project Structure
+**1) Data Preprocessing:** Cleaning, transforming, and exploring transaction data using Python.
+**2) Customer Segmentation:** Grouping customers based on spending behavior and other factors.
+**3) Credit Risk Assessment:** Identifying potential risks associated with credit card usage.
+**4) Dynamic Dashboards:** Visualizing key insights using interactive Power BI dashboards.
+
+## 📂 Project Structure:
 data/: Contains raw and processed data files.
 scripts/: Python scripts for data cleaning, analysis, and visualization.
 notebooks/: Jupyter notebooks with detailed analysis.
