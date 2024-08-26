@@ -95,7 +95,7 @@ Adding more key performance indicators based on stakeholder feedback.
 
 ## 🖼️ Visualizations:
 **Power BI Dashboards Images:**  
-<p align="center"> <img src="images/dashboard.png" alt="Power BI Dashboard" width="600"> </p> 
+<p align="center"> <img src="images/dashboard_img.png" alt="Power BI Dashboard"> </p> 
 
 ## 👥 Contributors:
 #### Akshay Vijayrao Dharmik
