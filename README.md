@@ -100,6 +100,3 @@ Adding more key performance indicators based on stakeholder feedback.
 ## 👥 Contributors:
 #### Akshay Vijayrao Dharmik
 (Data Analyst & Developer)
-
-## 📧 Contact
-For any inquiries, feel free to reach out at email@example.com.
